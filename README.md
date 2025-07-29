@@ -30,6 +30,9 @@ El funcionamiento del código se basa en la ejecución de las funciones definida
 ---
 **Estudiante**: Aidan Edil García Otero
 
+Puedes ver la versión desplegada en **GitHub Pages**:
+[**Ver el proyecto en GitHub Pages**](https://justme088.github.io/amigosecreto_AluraLATAM_G9/)
+
 ## Capturas
 <img width="1920" height="933" alt="Imagen1" src="https://github.com/user-attachments/assets/a54c4b6c-61bf-4a61-8a5d-727a7b88aa18" />
 <img width="1920" height="933" alt="Imagen2" src="https://github.com/user-attachments/assets/0da5dac5-a272-4a22-81c4-d9d0b2fefdb2" />
